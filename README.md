@@ -1,2 +1,2 @@
 # instacart-marketbasket-analysis
-Market Basket Analysis to improve Item Recommendations
+Market Basket Analysis to improve Item Recommendations using R
